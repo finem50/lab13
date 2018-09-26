@@ -1,3 +1,4 @@
+//Iterative approach
 #include <iostream>
 
 using namespace std;
@@ -23,6 +24,6 @@ int factorial(int n){
     total = total * i;
 
   }
-  
+
   return total;
 }
